@@ -36,6 +36,7 @@ import org.json.JSONObject;
 import androidx.core.app.NotificationCompat;
 
 import static android.os.PowerManager.PARTIAL_WAKE_LOCK;
+import static android.content.pm.ServiceInfo.FOREGROUND_SERVICE_TYPE_MEDIA_PLAYBACK;
 
 /**
  * Puts the service in a foreground state, where the system considers it to be

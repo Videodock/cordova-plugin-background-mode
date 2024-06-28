@@ -1,5 +1,8 @@
 ## ChangeLog
 
+#### Version 0.8.2
+- Fix cannot find symbol FOREGROUND_SERVICE_TYPE_MEDIA_PLAYBACK
+
 #### Version 0.8.1
 - Add support for Android API level 34
 
