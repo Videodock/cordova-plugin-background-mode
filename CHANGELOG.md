@@ -1,5 +1,8 @@
 ## ChangeLog
 
+#### Version 0.8.1
+- Add support for Android API level 34
+
 #### Version 0.8.0
 - Set PendingIntent mutability (fixes #45)
 - Depend on cordova-androidx-build to automatically work with AndroidX
